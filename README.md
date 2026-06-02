@@ -1,5 +1,3 @@
-`README.md` కోసం ఈ content వాడచ్చు:
-
 # Music Player Web Application
 
 ## 📌 Project Overview
@@ -78,16 +76,3 @@ Through this project, I learned:
 
 ## 🔗 GitHub Repository
 
-CodeAlpha_MusicPlayer
-
----
-
-GitHub repository లో screenshot add చేయాలంటే:
-
-```md
-## Screenshot
-
-![Music Player Screenshot](screenshot.png)
-```
-
-`screenshot.png` ని repository లో upload చేస్తే README ఇంకా professional గా కనిపిస్తుంది. 🚀
